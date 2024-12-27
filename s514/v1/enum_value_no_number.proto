@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package s514.v1;
+
+// Every enum value should have a tag number
+// Solution: Add the tag number to ENUM_NAME_UNSPECIFIED
+// enum EnumName {
+//   ENUM_NAME_UNSPECIFIED = 0;
+// }
+enum EnumName {
+  ENUM_NAME_UNSPECIFIED;
+}
