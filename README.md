@@ -6,7 +6,7 @@ In this repository I investigating the potential of the buf visual studio code e
 # Description
 Read my [article](https://medium.com/@kinneko-de/792c1846a935) for the result.
 
-<script src="https://gist.github.com/KinNeko-De/1dd97ac1ed63b2c2ec82d7b6d6bda016.js"></script>
+https://gist.github.com/KinNeko-De/1dd97ac1ed63b2c2ec82d7b6d6bda016
 
 # Structure
 There are several samples with simple proto definitions. Each of these proto definitions has at least one error. I haeve grouped the samples by context:
